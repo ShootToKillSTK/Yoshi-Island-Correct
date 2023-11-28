@@ -1,0 +1,3603 @@
+fileFormatVersion: 2
+guid: 4e95372d52b4f84499d24f7e22e1ac18
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: island-objects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 39
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f641bb460b15a2408970725ef5c657f
+      internalID: -51670805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 407
+        width: 56
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c9e7e69ed720c4eb62b3b4a16cf2fe
+      internalID: 1376560749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 460
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe38251a4a1085a4cb7e00b66224120d
+      internalID: -962182499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-pink
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 382
+        width: 73
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23578b179f3480b4d8bca1f9fbb1cd7f
+      internalID: -51967571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f813004e2d0844b4ff32aa4bff6c4
+      internalID: -1914947183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 458
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f3a030d9132e6418243f8cdef3b4e8
+      internalID: 607850970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double-plat-blue
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 476
+        width: 31
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2b61f7b334cf449061159c92d56e0
+      internalID: -210312034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 422
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c8b96068725b34e8a447e550c836f1
+      internalID: 146508219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone-BG
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 438
+        width: 96
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c3099dc062ac44ab03b9422ed0915
+      internalID: 1908935345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 435
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8f6ae4eaecdb74090b1c7ef84880db
+      internalID: -764929369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 435
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2005ba166793c34d8be0db89b5b3472
+      internalID: -241939483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 435
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b49c66aa5568646bb84d747c7abc40
+      internalID: -1889515923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 436
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb77293616cf394295b733d860f7f62
+      internalID: -421597062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 451
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605471f7b8f2f8449922c69e3d68703
+      internalID: 1317511664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 442
+        width: 7
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e877052631c1f964e858974f90b0141d
+      internalID: 1713717418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double-plat-blue2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 459
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04eec4016398d4faa35ae2737ee2fd
+      internalID: 824756975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_16
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 436
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f523be435157e4a905cb2191689ce7
+      internalID: 1875489841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 416
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20671353be5cf5b4aa36ba26904e23bb
+      internalID: -47431262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 442
+        width: 64
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff1411609d6be4459fa35d6913f11f6
+      internalID: -1885969796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double-plat-pink2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 442
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e3d52280eed6499b26267e7e66a08
+      internalID: 1955289923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 433
+        width: 85
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53cb9e3f3c99274a881cb9520f6d405
+      internalID: 210157856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double-plat-pink
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 432
+        width: 31
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b5757259b13c543982cb3ad01b4fff
+      internalID: 1636606929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_22
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 388
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63944ce859472c84398980a6076a4d2e
+      internalID: -1539416708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud-block
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c44e9686835774c98678f0a57bea04
+      internalID: -325564228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud-block2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d76d35ac6b1e439bf4fe49869d044
+      internalID: -1909213085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 416
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9609219744165408b4b6ff00498129
+      internalID: -1068350454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 408
+        width: 110
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ddf9eb1261a84f974c900f9f2ee09
+      internalID: 643530951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 389
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5874fbdfb584c4d9a3c45337f572b9
+      internalID: -328258263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_28
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 408
+        width: 107
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78f242a3242e5429eff0560e890120
+      internalID: 438134226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 392
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455c71812e40f147821c6e60d6e3ac4
+      internalID: -1132921435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_30
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 404
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05968853d8248040b2bf30e66c4a3ca
+      internalID: 634242428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 388
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e5204f4107cc4a81fa55b65700e71
+      internalID: -2053212040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud-plat-falling
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8048f4a813cfa9d4a89af7ce4552ca3a
+      internalID: 30651799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 370
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df135cfcad879df49a4697c1f7c91521
+      internalID: 496795721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 374
+        width: 57
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e5f1a5b88d8814abf3842464d12dcc
+      internalID: 163815823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 368
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65031ef2eb2c1c2469d815f8822ea68e
+      internalID: -286273962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 368
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671b9efdb08e94a48b9b0ee39c93c3c8
+      internalID: 701170172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 367
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f5d939d3ce7d4c837f49bdee43a71
+      internalID: 2086709451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-big
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 342
+        width: 79
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5ef354e2a19da4bbd89e0e1f5db637
+      internalID: -449709965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 372
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c446140749b2b4ea6766cc1eb62e90
+      internalID: 483535369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 342
+        width: 65
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b089e9561dc947a85970a28646597
+      internalID: -191373972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 343
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f8d46fbbc3ea48bf635add802b16f
+      internalID: 1282231408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_42
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 270
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b775e8c02f4004ab421e03cec4f11d
+      internalID: -1727367877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_43
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 307
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a416eee0c9984588f8f8f3d651f8d
+      internalID: 1275657801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 323
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a69ad2dbf585048a6926852704c24d
+      internalID: 218076406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-death2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 51
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb3dbc312b57c94eb45f9b1875389f9
+      internalID: -1297321919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-death1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 357
+        width: 51
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6781a17c46b8a458c5fb5b6c7be287
+      internalID: 1837694487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 334
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b07c3e46149ce46970b54726ef9900
+      internalID: -1758488072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 334
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad817b962442bf543b3dc66b9ae0f655
+      internalID: 1207568238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 331
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144d685a818296439879d90394da459
+      internalID: 106841545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_50
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 331
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d498f7b67b3e4692b9f71b7e9c206
+      internalID: 1330286161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_51
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 350
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e90eec222fc5941bf1655f5773f30c
+      internalID: 1802912926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 350
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b7c8eace6bbe409e6157d9c880d32
+      internalID: 772966581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_53
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 350
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a297af090f2354a429af507fcc6e37c6
+      internalID: -31995116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud-big
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 160
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd9d18a227deed49841c0c19e10e29d
+      internalID: 889388889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 310
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424198ab3e8c7f46a771347a93a0a69
+      internalID: 1751391995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 309
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f9d5001780d0458926e714a777c6e
+      internalID: 1191952043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 296
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a241d9cc83c56a846ab5f584b1178f6e
+      internalID: -1821718145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fauna
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96467a37862d543870132b23578ffb
+      internalID: 1105519483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone-large
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 296
+        width: 112
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f48f30066cf224ebf03a8b8c1f0eff
+      internalID: -1566569888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 309
+        width: 96
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab95158c7a02a4f9671546dbdba6bd
+      internalID: -1931614724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone-small
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 310
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ff3c6522e8184eb61584648d012e6
+      internalID: -1346306490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_62
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 326
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa29d977e6d954f806504260393751
+      internalID: 1383238984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 299
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9506d21401228446b7b6e3abf8cd9bf
+      internalID: 515606343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 299
+        width: 48
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79142e4869dfee4e91c2f09918b9279
+      internalID: -196604898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud-medium
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 300
+        width: 64
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05477e0e06b19404c98a93b759aeaecf
+      internalID: -1277242711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 264
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23873761f0992ee4fa901ad889ce1d12
+      internalID: 763987086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_67
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 308
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d88502163440479a7a377c59ad5fd
+      internalID: -1803825509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 274
+        width: 17
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1002f7678d72548a9de6734bdfab85
+      internalID: -1989117128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud-BG-Big
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 192
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a773ccc5ac25145878d855db872c71
+      internalID: 1705417711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud-BG-small
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 111
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50606e080ab34b8428c6d8f57459c2c5
+      internalID: 1008412644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_71
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 263
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636b683e98ad5b04f8c58e6876aed8de
+      internalID: -401658477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_72
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 255
+        width: 79
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7db2f8e1813f14a8cfd4bb384f23ac
+      internalID: -1468338500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 278
+        width: 96
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c4f7312c4c79d44b454edbc329b928
+      internalID: -2134813529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_74
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 290
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7042a5cd69ce9429d81169012d67c0
+      internalID: 202770066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_75
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 254
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25d5da6dc0aaf4fa1dd989edf2a507
+      internalID: -235759511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_76
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 179
+        width: 95
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d13243bf373d00489547b9ce70348ea
+      internalID: -2131814200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-colors
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 247
+        width: 48
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364bdbe424b4da4b85f66c8cc52aa9f
+      internalID: -943201007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_78
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 190
+        width: 145
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d2ca1039a010489ac7163ecd1307a
+      internalID: -790179564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_79
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 237
+        width: 96
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4f066bb61cad4fa6970f243361d02
+      internalID: -382465238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_80
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 230
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71befbeceb194084f8abfddf5fb82af0
+      internalID: -1645441933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_81
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 230
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c1d060e118354fa8df900e6d32987
+      internalID: -411580821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_82
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 220
+        width: 96
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4001a12caa8b594fbb8ea4ef60e4960
+      internalID: -1749973565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 189
+        width: 56
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81eaaeaeab858846a42221e138d983e
+      internalID: -1493510259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_84
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 101
+        width: 48
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f5c6506ef72a4bab48688934ba425
+      internalID: 999180883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_85
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 202
+        width: 64
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e38d6ade761e4daac3c890ad3a8d4
+      internalID: -909355410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 16
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81bfdb7a25d284a96a661fdcfb22cf
+      internalID: -721272990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 133
+        width: 15
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ec11afbbbc33f4a8af657307f7e8e9
+      internalID: -30927008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_89
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68d45a4f5b80b4591c64a0ad4ab2b2
+      internalID: -819900793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191d5530000b024db8a844d76e9b928
+      internalID: 1195259416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_91
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 72
+        width: 48
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164423f80defa7468aeb7af3a9c722f
+      internalID: 1714078930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_92
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 52
+        width: 72
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4678af195e6b5364cab1fcd726cfc1b2
+      internalID: 1493830719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_93
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 156
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379fd7ace637f04b96b5aefaf3fb1db
+      internalID: 404855470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_94
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 136
+        width: 112
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc0843549c3a03489c51ab20b91b992
+      internalID: -559566322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_95
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 140
+        width: 160
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c4585c457b2304d9aa62a1f4359a47
+      internalID: -1060620353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 63
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607b2ba9d0f77b4385039cd1ea12311
+      internalID: 32810052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_97
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 100
+        width: 15
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c821e0a9d0c50b40a9b0aebfae23998
+      internalID: 530068099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_98
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 84
+        width: 56
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86600bf2e0a1564d866db9540fc51f5
+      internalID: -1628450581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 125
+        width: 136
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560b82eddb439a4d8f2802689f1ab1c
+      internalID: 818612457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_100
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 123
+        width: 64
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41a4c04f0591a489d07b00484a2e4e
+      internalID: 1203299211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 123
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce27813a32ae1e46b10d8ada2b77e72
+      internalID: 2137347101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_102
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 123
+        width: 64
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c47172654c87504c9db2511de030d29
+      internalID: -914845697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_103
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 106
+        width: 208
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818f28bbb4fb7642aed9fc115c54622
+      internalID: -1812341060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pebble-plat2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 94
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ce15251cb8d34aa3afe4ce2ec90a0
+      internalID: -929041978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pebble-plat1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 94
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f29c59e272baff4d861af8e305c643c
+      internalID: 1581110560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_106
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 94
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccde74ef6301ef145bbfdeeec8932dd7
+      internalID: -1264108825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_107
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 94
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0d1693d5178d43a30add33b20aa34
+      internalID: -72547581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_108
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 94
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6632779f3a45743948aa91dd146787
+      internalID: -1775308018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_109
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 94
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a244c167c1cdd448643958a27ffd8b
+      internalID: 484524002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_110
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 94
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2340fef730783c545a4e79f52544e9c7
+      internalID: 434967746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_111
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 95
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b99db5148ed984697e1a2f2291fa6b
+      internalID: 1020043864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 85
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28437fc2db7a884eb06a3b366b10f84
+      internalID: 1902494337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_114
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 85
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c186525a66b3d42a8535c7ce5092d0
+      internalID: 1104606289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_115
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 85
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18468a49230a2f046afe59cc9665ce84
+      internalID: -371053320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_116
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 83
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2e0b93a37e1894ab72abf8eb8b910e
+      internalID: -1072651366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_117
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 85
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d80dd83fd129740b63d10c7c7f5df8
+      internalID: 992816544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_118
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 85
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057405984902ab340b06dc8028ee281f
+      internalID: -1631912010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_119
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 85
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908fb79d90f5e74da5511db4a8feb28
+      internalID: -2077740973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_120
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 85
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466aa602ec59c0249a38255855561d30
+      internalID: 942301098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_121
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 83
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015c51de95a17147b51e0749d741f9f
+      internalID: -926235834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_122
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 16
+        width: 112
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629c1e1ca88f394c94fd642baa3a27b
+      internalID: 2045414862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162b67e94af5874b9d8d250848e3bcc
+      internalID: -1973216964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees-plat
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065fb97c9e7548648938be08e6063432
+      internalID: 871050599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_141
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 30
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d856b8ac63b974a91c9b242ce700ea
+      internalID: -96743760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_142
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 30
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbd6ea1ecea71d42a75d29a60da36ee
+      internalID: -866419627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_143
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 28
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fc18241304fb04783ead2f809e743a
+      internalID: 893069174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_144
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 28
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b1f30537c5b040a152113ef10bb2e
+      internalID: 1730973206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_145
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 30
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2289764550b01ee44be6554a2904199f
+      internalID: 133085897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_146
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 30
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87d7b9d1d1e75479745f1f99613923
+      internalID: 1023373592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_147
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 30
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed850b19662d643b16cd5faf7a0c46
+      internalID: 1041688688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_148
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 30
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a199bc617ea712478e3324b96e8dd49
+      internalID: -1052773492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_149
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 30
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0590842dad21b8b468289752de1628ba
+      internalID: -2069108711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_150
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 30
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64be9fd37cc3940ba545ef2389b39a
+      internalID: 1741038548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_151
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 30
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840637b20914f0544a73c87da9dadff2
+      internalID: -943418666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_152
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 30
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea4773b8df769547b13f31a548e7f66
+      internalID: 709864117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_153
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 30
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb982e7ae9f2645912fd944d71ee5a
+      internalID: -969670953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_154
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 30
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed289b5702268408a896ad0655df1e
+      internalID: -1714763596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_168
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae2642d889ff844bb3f2fe4b778a85
+      internalID: -811261163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_169
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588d5f8d4cc8dc24e992bb4aca6e6960
+      internalID: -1735534465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_170
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 17
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcdc170f7694dc49b75f1c751870dd3
+      internalID: -261972294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_171
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 17
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff8a6ef221321547828f416911c25bc
+      internalID: 905930983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_172
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8687e7951e2ca04ab82adaf11bba88a
+      internalID: 1374931289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_173
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 15
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7edc6eab4e76f74faf5b30f6ba46bf1
+      internalID: -1038722183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_174
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b51de45581b44ca8c4d2a07b6c992
+      internalID: 1038150077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_175
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 15
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb24e18f8311248a25ea77da13c613
+      internalID: 233789368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_176
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 17
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aa750beb22bc64d8f22be49841c5c9
+      internalID: 1792028270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_177
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 17
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2be101d08f9af41a3e3c43646ba017
+      internalID: 141349851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_178
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 15
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac64b888f347ec3448ce2ed7c4ee2fb8
+      internalID: -1451009419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 15
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6819a47270fa41ab13fcff874bf1a
+      internalID: 184382797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_180
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2c4cacd87a424b9f1eb06e7a04e44
+      internalID: -60534342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_181
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 17
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db6c34d336db542803fb206c35df57
+      internalID: -1759948832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_182
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567605646e8fa764093c81cc1b25b253
+      internalID: -1233480898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_183
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e30d6f44679d419099623f4dead05
+      internalID: -2026549576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_184
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759abff44ac0a24a8b135bbf1d7f5cc
+      internalID: -1409261148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island-objects_185
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 17
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496de9363c8e846468b2d9356f12c534
+      internalID: 870355087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-orange
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95b493163ee354e964f85583ce051a
+      internalID: -1026758653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      arrow1: 1191952043
+      arrow2: 1751391995
+      block-orange: -1026758653
+      bridge1: 818612457
+      cloud-BG-Big: 1705417711
+      cloud-BG-small: 1008412644
+      cloud-big: 889388889
+      cloud-block: -325564228
+      cloud-block2: -1909213085
+      cloud-medium: -1277242711
+      cloud-plat-falling: 30651799
+      cloud1: 515606343
+      cloud2: -196604898
+      double-plat-blue: -210312034
+      double-plat-blue2: 824756975
+      double-plat-pink: 1636606929
+      double-plat-pink2: 1955289923
+      fauna: 1105519483
+      island-objects_0: -51670805
+      island-objects_1: 1376560749
+      island-objects_10: -241939483
+      island-objects_100: 1203299211
+      island-objects_101: 2137347101
+      island-objects_102: -914845697
+      island-objects_103: -1812341060
+      island-objects_106: -1264108825
+      island-objects_107: -72547581
+      island-objects_108: -1775308018
+      island-objects_109: 484524002
+      island-objects_11: -1889515923
+      island-objects_110: 434967746
+      island-objects_111: 1020043864
+      island-objects_112: -551270017
+      island-objects_113: 1902494337
+      island-objects_114: 1104606289
+      island-objects_115: -371053320
+      island-objects_116: -1072651366
+      island-objects_117: 992816544
+      island-objects_118: -1631912010
+      island-objects_119: -2077740973
+      island-objects_12: -421597062
+      island-objects_120: 942301098
+      island-objects_121: -926235834
+      island-objects_122: 2045414862
+      island-objects_123: -1973216964
+      island-objects_125: -848889765
+      island-objects_126: 1581456503
+      island-objects_127: 1907604278
+      island-objects_128: -323093374
+      island-objects_129: 1364790576
+      island-objects_13: 1317511664
+      island-objects_130: -30109046
+      island-objects_131: -9394866
+      island-objects_132: -1919610866
+      island-objects_133: -628343497
+      island-objects_134: 99134654
+      island-objects_135: -1246228602
+      island-objects_136: -114111134
+      island-objects_137: 58016240
+      island-objects_138: 725672112
+      island-objects_139: -1429612058
+      island-objects_14: 1713717418
+      island-objects_140: -1339900973
+      island-objects_141: -96743760
+      island-objects_142: -866419627
+      island-objects_143: 893069174
+      island-objects_144: 1730973206
+      island-objects_145: 133085897
+      island-objects_146: 1023373592
+      island-objects_147: 1041688688
+      island-objects_148: -1052773492
+      island-objects_149: -2069108711
+      island-objects_150: 1741038548
+      island-objects_151: -943418666
+      island-objects_152: 709864117
+      island-objects_153: -969670953
+      island-objects_154: -1714763596
+      island-objects_155: -316134626
+      island-objects_156: 1352881319
+      island-objects_157: -972161187
+      island-objects_158: 2118907068
+      island-objects_159: 1597152555
+      island-objects_16: 1875489841
+      island-objects_160: -767367207
+      island-objects_161: 490909872
+      island-objects_162: 742793045
+      island-objects_163: 1805151847
+      island-objects_164: -1214666069
+      island-objects_165: -1084925261
+      island-objects_166: 1741158902
+      island-objects_167: -1406662115
+      island-objects_168: -811261163
+      island-objects_169: -1735534465
+      island-objects_170: -261972294
+      island-objects_171: 905930983
+      island-objects_172: 1374931289
+      island-objects_173: -1038722183
+      island-objects_174: 1038150077
+      island-objects_175: 233789368
+      island-objects_176: 1792028270
+      island-objects_177: 141349851
+      island-objects_178: -1451009419
+      island-objects_179: 184382797
+      island-objects_18: -1885969796
+      island-objects_180: -60534342
+      island-objects_181: -1759948832
+      island-objects_182: -1233480898
+      island-objects_183: -2026549576
+      island-objects_184: -1409261148
+      island-objects_185: 870355087
+      island-objects_20: 210157856
+      island-objects_22: -1539416708
+      island-objects_26: 643530951
+      island-objects_27: -328258263
+      island-objects_28: 438134226
+      island-objects_29: -1132921435
+      island-objects_30: 634242428
+      island-objects_31: -2053212040
+      island-objects_33: 496795721
+      island-objects_35: -286273962
+      island-objects_36: 701170172
+      island-objects_39: 483535369
+      island-objects_4: -1914947183
+      island-objects_40: -191373972
+      island-objects_41: 1282231408
+      island-objects_42: -1727367877
+      island-objects_43: 1275657801
+      island-objects_44: 218076406
+      island-objects_47: -1758488072
+      island-objects_48: 1207568238
+      island-objects_49: 106841545
+      island-objects_5: 607850970
+      island-objects_50: 1330286161
+      island-objects_51: 1802912926
+      island-objects_52: 772966581
+      island-objects_53: -31995116
+      island-objects_57: -1821718145
+      island-objects_62: 1383238984
+      island-objects_66: 763987086
+      island-objects_67: -1803825509
+      island-objects_68: -1989117128
+      island-objects_7: 146508219
+      island-objects_71: -401658477
+      island-objects_72: -1468338500
+      island-objects_74: 202770066
+      island-objects_75: -235759511
+      island-objects_76: -2131814200
+      island-objects_78: -790179564
+      island-objects_79: -382465238
+      island-objects_80: -1645441933
+      island-objects_81: -411580821
+      island-objects_82: -1749973565
+      island-objects_83: -1493510259
+      island-objects_84: 999180883
+      island-objects_85: -909355410
+      island-objects_86: -721272990
+      island-objects_87: -30927008
+      island-objects_88: -622295353
+      island-objects_89: -819900793
+      island-objects_9: -764929369
+      island-objects_90: 1195259416
+      island-objects_91: 1714078930
+      island-objects_92: 1493830719
+      island-objects_93: 404855470
+      island-objects_94: -559566322
+      island-objects_95: -1060620353
+      island-objects_96: 32810052
+      island-objects_97: 530068099
+      island-objects_98: -1628450581
+      mushroom1: 2086709451
+      pebble-plat1: 1581110560
+      pebble-plat2: -929041978
+      platform-death1: 1837694487
+      platform-death2: -1297321919
+      platform1: -962182499
+      platform2: -47431262
+      platform3: -1068350454
+      rock-big: -449709965
+      rock-colors: -943201007
+      rock1: 163815823
+      stone-BG: 1908935345
+      stone-large: -1566569888
+      stone-small: -1346306490
+      stone1: -1931614724
+      stone2: -2134813529
+      tree-pink: -51967571
+      trees-plat: 871050599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
