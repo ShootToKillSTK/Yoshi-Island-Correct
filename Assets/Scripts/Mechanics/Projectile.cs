@@ -21,17 +21,30 @@ public class Projectile : MonoBehaviour
         GetComponent<Rigidbody2D>().velocity = initVel;
         Destroy(gameObject, lifetime);
     }
-
+    //Player projectile is a collider
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Wall"))
         {
             Destroy(gameObject);
         }
-
-        if (collision.gameObject.CompareTag("Enemy") && gameObject.CompareTag("PlayerProjectile"))
+        if (collision.gameObject.CompareTag("Enemy"))
         {
             collision.gameObject.GetComponent<Enemy>().TakeDamage(damage);
+        }
+    }
+
+    //Enemy projectile is a trigger
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Wall"))
+        {
+            Destroy(gameObject);
+        }
+        if (collision.CompareTag("Player"))
+        {
+            GameManager.Instance.lives--;
+            Destroy(gameObject);
         }
     }
 }

@@ -22,15 +22,15 @@ public class Pickups : MonoBehaviour
             switch (currentPickup)
             {
                 case PickupType.Powerup:
-                    pc.StartJumpForceChange();
+                    collision.GetComponent<PlayerController>();
                     //do powerup functionality
                     break;
                 case PickupType.Life:
-                        pc.lives++;
+                    GameManager.Instance.lives++;
                     //do life funtionality
                     break;
                 case PickupType.Score:
-                    pc.score++;
+                    GameManager.Instance.score++;
                     //do score funtionality
                     break;
             }
